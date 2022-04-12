@@ -1,0 +1,17 @@
+:::: Log File ::::
+[12/4/2022 -- 10:37]  Info task started
+[12/4/2022 -- 10:37]  Mustache Templates ran on the HTML files
+[12/4/2022 -- 10:37]  Scripts ran on main.js
+[12/4/2022 -- 10:37]  Sass ran on files
+[12/4/2022 -- 10:40]  Scripts ran on main.js
+[12/4/2022 -- 11:24]  Info task started
+[12/4/2022 -- 11:24]  Mustache Templates ran on the HTML files
+[12/4/2022 -- 11:24]  Scripts ran on main.js
+[12/4/2022 -- 11:24]  Sass ran on files
+[12/4/2022 -- 11:25]  Sass ran on files
+[12/4/2022 -- 11:25]  Scripts ran on main.js
+[12/4/2022 -- 11:25]  Mustache Templates ran on the HTML files
+[12/4/2022 -- 11:25]  Mustache Templates ran on the HTML files
+[12/4/2022 -- 11:25]  Scripts ran on main.js
+[12/4/2022 -- 11:25]  Sass ran on files
+[12/4/2022 -- 11:25]  Mustache Templates ran on the HTML files
